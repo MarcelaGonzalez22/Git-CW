@@ -75,12 +75,12 @@ Cocino
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` |Inicia el repositorio|
+| `git status` |Dice que pasa en el repositorio y que se necesita|
+| `git add .` |Guarda los archivos en git (repositorio local)|
+| `git commit -m "..."` |Los archivos guardados con git add en ese momento se guardan definitivamente (ya no se pueden modificar)|
+| `git log --oneline` |Muestra el historial de commits|
+| `git push` |Se hacen los cambios en la web|
 
 ---
 
