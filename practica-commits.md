@@ -39,7 +39,10 @@ Algo sobre mí : Soy muy alegre
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
 - 
-
+Camino distancias largas
+Escribo rápido
+Perseverante
+Cocino 
 ---
 
 ## Nivel 3 · Corrige los errores
