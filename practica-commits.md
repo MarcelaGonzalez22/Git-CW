@@ -62,9 +62,9 @@ Cocino
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Descargar Git
+2. Diferencia entre Git, GitHub y GitLab
+3. Que es un repositorio y a crearlo
 
 ---
 
