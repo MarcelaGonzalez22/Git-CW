@@ -90,11 +90,10 @@ Cocino
 **Commit:** `chore(practica): actualiza checklist de avance`
 
 - [ ] Hice `git init` sin ayuda
-- [ ] Entiendo para qué sirve el Staging Area
-- [ ] Escribí un mensaje de commit con formato Conventional Commits
-- [ ] Puedo ver el historial con `git log`
-- [ ] Completé todos los niveles de esta práctica
-
+- [x] Entiendo para qué sirve el Staging Area
+- [x] Escribí un mensaje de commit con formato Conventional Commits
+- [x] Puedo ver el historial con `git log`
+- [x] Completé todos los niveles de esta práctica
 ---
 
 ## Referencia rápida
