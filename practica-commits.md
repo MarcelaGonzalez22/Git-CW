@@ -26,9 +26,9 @@ Edita → `git add practica-commits.md` → `git commit -m "..."`
 **Commit:** `feat(perfil): agrega presentación de [tu nombre]`
 
 ```
-Nombre     : 
-GitHub     : 
-Algo sobre mí : 
+Nombre     : Marcela
+GitHub     : https://github.com/MarcelaGonzalez22
+Algo sobre mí : Soy muy alegre
 ```
 
 ---
